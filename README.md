@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá, meu nome é Breno Correia Chiaradia Santos, tenho 18 anos e iniciei minha jornada na área de tecnologia em 2022. Desde então, venho estudando programação, com foco inicial em Python, algoritmos e lógica de programação.
+Olá, meu nome é Breno Correia Chiaradia Santos, tenho 18 anos e iniciei minha jornada na área de tecnologia em 2022. Desde então, venho estudando programação, com foco inicial em Python e Java, algoritmos e lógica de programação.
 
 Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade Serra Dourada, em Lorena-SP. Tenho estudado Java, MySQL e Programação Orientada a Objetos, tanto na faculdade quanto em cursos complementares fora dela.
 
